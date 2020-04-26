@@ -102,7 +102,7 @@ Here is the full list of inputs you've got written down.
 10 beeps, 5 boops
 BOP! (pretty sure this is a space!)
 11 beeps, 12 boops
-5 beeps, 5 boops
+5 beeps, 10 boops
 1 beep, 17 boops
 5 beeps, 7 boops
 4 beeps, 0 boops
@@ -139,7 +139,7 @@ print(total)
 12
 15
 23
-10
+15
 18
 12
 4
